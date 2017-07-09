@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      Linux基础学习
+subtitle:   基本bash命令
+date:       2017-7-05
+author:     Zch
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - Linux基本命令
+---
 Linux基本命令
 
 ls　　        显示文件或目录
