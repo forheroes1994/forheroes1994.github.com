@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Linux基础学习
+title:      Linux基础学习随笔
 subtitle:   基本bash命令
 date:       2017-7-05
 author:     Zch
