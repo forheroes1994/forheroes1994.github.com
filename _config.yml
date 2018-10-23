@@ -77,5 +77,8 @@ service-worker: true
 
 # Friends
 friends: [
-  
+    {
+        title: "bamtercelboo",
+        href: "https://bamtercelboo.github.io/"
+    }
 ]
